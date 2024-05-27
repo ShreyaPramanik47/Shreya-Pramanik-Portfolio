@@ -1,2 +1,2 @@
-# Shreya-Pramanik-Portfolio
-Portfolio using HTML , CSS &amp; JS
+# Shreya Pamanik 
+My Portfolio using HTML , CSS & Js with attractive animation and responsive Designe .
